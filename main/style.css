@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.btn1{
+    text-align: center;
+    width:33%;
+    background-color: rgb(218, 123, 155);
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px;
+}
+.btn2{
+    text-align: center;
+    width: 33%;
+    background-color:rgb(243, 237, 237);
+    border: 0;
+    border-radius:3.5px;
+    padding: 2.5px 5px;
+}
+.btn3{
+    text-align: center;
+    width: 33%;
+    background-color: rgb(8, 160, 8) ;
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px;
+}
+.btn4{
+    text-align: center;
+    width:33%;
+    background-color: rgb(144, 54, 228);
+    border: 0;
+    border-radius:3.5px;
+    padding: 2.5px 5px;
+}
+.btn5{
+    text-align: center;
+    width:33%;
+    background-color: rgb(249, 87, 28);
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px;
+}
+.btn6{
+    text-align: center;
+    width: 33%;
+    background-color: rgb(25, 25, 250);
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px;
+}
+.btn7{
+    text-align: center;
+    width: 33%;
+    background-color: rgb(150, 150, 150);
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px;
+}
+.btn8{
+    text-align: center;
+    width:33%;
+    background-color:rgb(17, 17, 249) ;
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px;
+}
+.btn9{
+    text-align: center;
+    width: 33%;
+    background-color: rgb(68, 188, 122);
+    border: 0;
+    border-radius: 3.5px;
+    padding: 2.5px 5px ;
+}
+.item{
+   display: inline-block;
+   width: 33%;
+   text-align:center ;
+   margin-top: 2%;
+}
+.item p{
+    color: gray;
+}
+.main{
+    display: inline-block;
+    width:  33%;
+    text-align:center ;
+    margin-top: 2%;
+}
+.main p{
+    color: gray;
+}
+.span{
+    display: inline-block;
+    width: 33%;
+    text-align:center ;
+    margin-top: 2%;
+}
+.span p{
+    color:gray;
+}
